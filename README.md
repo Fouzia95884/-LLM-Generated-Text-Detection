@@ -1,4 +1,4 @@
-# 🧠 AI-Generated Text Detection Using Classical ML and Transformers
+#  AI-Generated Text Detection Using Classical ML and Transformers
 
 **Author:** Fouzia Shile  
 **MSc Applied Computer Science & Artificial Intelligence — University of Bradford**  
