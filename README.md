@@ -2,7 +2,6 @@
 
 **Author:** Fouzia Shile  
 **MSc Applied Computer Science & Artificial Intelligence — University of Bradford**  
-**Module:** COS7045-B Advanced Machine Learning
 
 ---
 
@@ -80,7 +79,7 @@ This project implements a comparative framework to detect AI-generated text usin
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 - Classical models (especially LR, SVM) **outperformed** fine-tuned transformers on the extended dataset.
 - Freezing transformer backbones gave better stability.
@@ -89,7 +88,7 @@ This project implements a comparative framework to detect AI-generated text usin
 
 ---
 
-## ⚖️ Ethical Note
+##  Ethical Note
 
 This project addresses a real-world problem with legal, ethical, and social implications. The study includes:
 - Fairness and misclassification risks
