@@ -52,7 +52,7 @@ This project implements a comparative framework to detect AI-generated text usin
 - **Structure:** Binary labels (0 = Human, 1 = AI)
 - **Augmentation:** Essays from GPT-4, PaLM, and Cohere; quality filtering via RDizzl3 Seven
 
-📁 Dataset too large for GitHub — [Download from Google Drive](#) *(insert your link)*
+📁 detectAItext Dataset is too large for GitHub, please find it here [Download from Google Drive](#) *(https://drive.google.com/file/d/1_nm_Ebw9SbntGoWnLhAWK9M3PZV5Afol/view?usp=share_link)*
 
 ---
 
