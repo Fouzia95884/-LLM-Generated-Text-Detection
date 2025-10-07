@@ -58,3 +58,46 @@ This project implements a comparative framework to detect AI-generated text usin
 
 ## ⚙️ Code Structure
 
+
+- Each notebook includes:
+  - Preprocessing pipeline
+  - Training and evaluation
+  - Confusion matrices, F1 scores, and comparative plots
+
+---
+
+## 💻 Requirements
+
+- Python ≥ 3.8  
+- scikit-learn  
+- pandas  
+- matplotlib / seaborn  
+- transformers (HuggingFace)  
+- KerasNLP or TensorFlow  
+- Jupyter / Google Colab  
+
+> 📝 No external preprocessing needed — full pipeline is self-contained in notebooks.
+
+---
+
+## 📈 Key Findings
+
+- Classical models (especially LR, SVM) **outperformed** fine-tuned transformers on the extended dataset.
+- Freezing transformer backbones gave better stability.
+- Input length affects performance — long essays reduced F1-scores across models.
+- Detection is **non-trivial**, especially with advanced LLMs (e.g., GPT-4).
+
+---
+
+## ⚖️ Ethical Note
+
+This project addresses a real-world problem with legal, ethical, and social implications. The study includes:
+- Fairness and misclassification risks
+- Legal compliance (e.g., GDPR)
+- Limitations in model generalisability and dataset bias
+
+---
+
+## 📜 License
+
+For academic use only. Contact [fouzia.shile@gmail.com](mailto:fouzia.shile@gmail.com) for permissions or collaborations.
